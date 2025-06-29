@@ -5,7 +5,7 @@
                 timeline: "Timeline",
                 books: "Books",
                 doctor: "Doctor Assistance",
-                heroTitle: "Complete Pregnancy Care Platform",
+                heroTitle: "Maternal AI Guardian",
                 heroSubtitle: "AI-powered health predictions, personalized care, and comprehensive support for expecting mothers and fathers",
                 momAccount: "Mother's Account",
                 momDescription: "Comprehensive health tracking with offline risk calculations and disease predictions for expecting mothers.",
