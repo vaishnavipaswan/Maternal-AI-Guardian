@@ -140,14 +140,6 @@ npx http-server ./
 
 ---
 
-## 🧑‍💻 Team
-
-- 👩‍💻 Sahas Sujit Mokashi - ML & Fullstack Dev
-- 👩‍⚕️ Domain expert - Public health research
-- 🎨 UI/UX - Visual branding + gamification
-
----
-
 ## 📃 License
 
 MIT License – Open for community improvement.
