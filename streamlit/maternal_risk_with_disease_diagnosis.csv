@@ -1,0 +1,1015 @@
+﻿Age,HeartRate,BodyTemp,BS,SystolicBP,DiastolicBP,Swelling,Nausea,AbdominalPain,VaginalBleeding,StressLevel,DepressionSymptoms,SleepQuality,Diabetes,Anemia,PriorMiscarriage,RiskLevelBinary,PossibleDiseases
+25,86,98,15,130,80,0,1,0,0,2,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+35,70,98,13,140,90,1,1,0,0,4,0,2,1,1,0,High,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+29,80,100,8,90,70,1,0,0,0,1,0,3,0,1,0,High,"Anemia, Gestational Diabetes"
+30,70,98,7,140,85,0,0,0,0,1,0,1,0,0,0,High,"Anxiety, Depression"
+35,76,98,6.1,120,60,0,1,0,0,3,1,4,0,0,0,Low,Hyperemesis Gravidarum
+23,70,98,7.01,140,80,0,0,1,0,4,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+23,78,98,7.01,130,70,0,1,0,0,1,0,1,1,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+35,86,102,11,85,60,1,0,0,0,4,1,5,0,0,0,High,"Anxiety, Gestational Diabetes, Perinatal Depression"
+32,70,98,6.9,120,90,0,1,0,0,5,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+42,70,98,18,130,80,1,1,0,0,2,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+23,76,98,7.01,90,60,0,1,0,0,2,1,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,70,98,7,120,80,1,0,0,0,2,0,3,0,1,0,Low,Anemia
+25,77,98,7.01,110,89,1,1,1,0,4,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+20,70,100,7.01,120,75,0,1,0,1,4,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+48,88,98,11,120,80,0,0,0,0,3,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+15,70,98,7.01,120,80,0,1,0,0,2,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,90,98,15,140,90,0,0,1,0,3,0,5,0,0,0,High,Gestational Diabetes
+25,80,98,7.01,140,100,0,0,0,1,2,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+30,76,101,6.9,120,80,0,0,0,0,3,0,2,0,0,1,Low,"Anxiety, IUGR, Recurrent Pregnancy Loss, Depression"
+10,70,98,6.9,70,50,0,0,0,0,3,0,5,0,0,0,Low,None
+40,90,98,18,140,100,0,0,0,0,5,0,3,1,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,70,98,6.7,140,80,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+21,76,98,7.5,90,65,0,0,0,0,4,0,4,0,0,0,Low,Gestational Diabetes
+18,70,98,7.5,90,60,0,1,0,0,3,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+21,76,98,7.5,120,80,0,0,0,0,2,1,1,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+16,80,98,7.2,100,70,1,0,1,1,3,0,5,0,1,0,Low,"Anemia, Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+19,66,98,7.2,120,75,0,0,1,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+22,70,98,7.2,100,65,0,1,0,0,2,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+49,77,98,7.2,120,90,0,0,0,0,1,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+28,82,98,7.2,90,60,0,1,0,0,2,1,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+20,88,98,7.1,100,90,0,1,0,0,4,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,66,98,7.1,100,85,0,1,0,0,4,1,3,1,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+22,82,98,7.1,120,90,0,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+21,77,98,7.1,120,80,1,0,0,1,1,0,3,0,1,0,Low,"Anemia, Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+21,70,98,6.1,75,50,1,1,1,1,5,0,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+12,60,102,6.1,95,60,1,0,0,0,2,1,3,1,1,0,Low,Anemia
+60,75,98,6.1,120,80,0,1,0,0,4,0,3,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+55,66,98,6.1,100,65,0,0,1,1,2,0,2,1,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+45,66,98,6.1,120,95,0,1,0,0,1,0,1,0,0,1,Low,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+35,66,98,6.1,100,70,0,1,0,1,5,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+22,88,98,6.1,120,85,0,1,0,0,1,1,4,1,0,1,Low,"IUGR, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+23,60,98,6.1,120,90,0,0,0,0,2,0,5,0,1,0,Low,Anemia
+25,80,98,6.1,90,70,0,1,1,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+30,70,98,6.1,120,80,1,0,0,0,5,0,3,0,0,0,Low,None
+23,70,98,6.1,120,90,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Depression"
+32,70,98,7.5,120,90,0,1,1,0,4,1,4,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+42,70,98,7.5,120,80,0,1,1,0,2,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,76,98,7.5,90,60,0,1,1,0,3,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+15,77,98,7.5,76,49,0,1,0,0,3,1,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,7,120,80,0,0,0,1,1,0,4,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+25,66,98,7,120,80,1,0,1,0,2,0,5,1,0,0,Low,None
+22,80,98,7,100,65,1,1,1,0,2,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+35,60,98,7,100,70,1,0,0,0,1,0,4,0,0,0,Low,None
+19,60,98,7,120,85,1,0,0,0,2,0,5,0,0,0,Low,None
+60,77,98,7,90,65,0,0,0,1,4,1,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Perinatal Depression"
+23,70,98,6.7,120,90,1,0,1,0,1,0,2,0,1,0,Low,"Anemia, Anxiety, Depression"
+32,70,98,6.4,120,90,0,0,0,0,4,0,5,0,1,0,Low,Anemia
+42,70,98,6.4,120,80,0,0,0,0,2,1,5,1,0,0,Low,None
+23,76,98,6.4,90,60,0,0,0,0,1,0,3,1,0,0,Low,None
+15,77,98,6.4,76,49,0,0,0,0,2,0,4,0,0,0,Low,None
+15,70,98,7.2,120,80,0,1,1,1,1,0,3,1,1,0,Low,"Anemia, Miscarriage Risk, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+15,80,98,7,80,60,0,0,0,0,2,1,2,0,0,0,Low,"Anxiety, Depression"
+12,77,98,7.2,95,60,1,0,1,0,4,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+29,80,98,6.7,90,70,0,1,1,0,4,0,3,1,0,0,Low,Hyperemesis Gravidarum
+31,76,98,6.1,120,60,0,0,0,0,2,1,4,0,0,0,Low,None
+29,78,98,6.7,130,70,0,1,0,0,1,0,2,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+17,86,102,9,85,60,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+19,70,98,7,120,80,1,0,1,0,4,1,3,0,0,1,Low,"Anxiety, IUGR, Perinatal Depression, Recurrent Pregnancy Loss"
+20,70,100,7,110,60,0,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Depression"
+32,76,101,6,120,65,1,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+26,86,101,6,85,60,1,1,1,0,2,1,3,1,0,0,Low,Hyperemesis Gravidarum
+29,78,98,7.7,130,70,0,0,0,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,0,1,1,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+54,67,98,12,130,70,1,0,0,1,5,1,3,0,0,0,Low,"Miscarriage Risk, Anxiety, Placental Abruption, Gestational Diabetes, Perinatal Depression"
+44,80,98,16,120,90,1,1,0,0,4,1,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes, Perinatal Depression"
+23,70,98,6.9,130,70,1,0,0,0,5,0,5,0,0,0,Low,None
+22,76,98,6.9,85,60,1,1,1,0,4,0,3,0,0,0,Low,Hyperemesis Gravidarum
+55,70,98,12,120,90,0,1,0,0,4,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+35,78,98,6.9,120,80,0,1,1,0,5,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+21,86,98,6.9,90,60,0,0,1,0,5,0,1,0,0,0,Low,"Anxiety, Depression"
+16,76,98,6.9,90,65,1,0,0,0,2,0,5,1,1,0,Low,Anemia
+33,70,98,7,115,65,0,0,1,0,5,0,3,0,0,0,Low,None
+12,65,98,6.9,95,60,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+28,70,98,6.9,120,90,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+21,76,98,6.9,90,65,0,1,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+18,70,98,6.9,90,60,0,0,1,0,4,0,5,0,1,1,Low,"Anemia, IUGR, Recurrent Pregnancy Loss"
+21,76,98,6.9,120,80,1,0,0,1,4,0,1,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+16,80,98,6.9,100,70,0,1,0,0,5,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+19,66,98,6.9,120,75,1,1,0,0,4,0,5,1,0,0,Low,Hyperemesis Gravidarum
+23,66,98,6.9,100,85,0,1,0,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+22,82,98,7.8,120,90,0,1,0,1,4,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+60,60,98,15,120,85,1,0,1,0,1,1,3,0,0,0,Low,Gestational Diabetes
+13,80,101,7.8,90,65,1,0,1,0,1,0,4,0,0,0,Low,Gestational Diabetes
+23,60,98,7.8,120,90,0,1,0,0,5,1,4,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+28,86,101,7.8,115,60,1,1,1,0,4,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,70,98,7.8,120,80,0,0,0,0,4,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+29,78,98,7.8,130,70,0,1,1,0,2,1,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+19,70,98,7,120,80,0,0,0,0,3,0,3,0,0,0,Low,None
+19,60,98,7.8,120,85,0,0,0,0,5,0,2,0,0,1,Low,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+60,77,98,6.8,90,65,0,0,0,1,3,0,4,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+55,66,98,6.8,120,90,0,0,1,0,3,0,3,0,0,0,Low,None
+25,66,98,6.8,120,80,0,0,0,0,5,0,4,0,1,0,Low,Anemia
+48,90,98,15,140,90,0,0,0,0,4,0,4,0,0,1,High,"IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+25,80,98,6.8,140,100,0,1,0,0,5,0,2,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia"
+23,70,98,6.8,140,90,1,0,0,1,3,0,5,0,1,0,High,"Anemia, Placental Abruption, Miscarriage Risk"
+34,86,102,11,85,60,0,0,0,0,4,1,1,0,0,0,High,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+50,90,98,15,140,90,0,1,0,0,1,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+25,80,98,6.8,140,100,1,1,1,0,5,0,3,0,0,0,High,"Hyperemesis Gravidarum, Preeclampsia, Hypertension disorders"
+42,90,98,18,140,100,0,1,0,0,5,1,5,0,0,0,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+32,78,98,7.9,140,100,0,1,0,0,4,0,3,1,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,60,98,17,140,95,0,1,0,0,1,0,3,1,0,1,High,"Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+38,86,101,7.9,135,60,0,0,1,0,1,0,1,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+39,80,98,9,90,70,1,0,1,0,4,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+30,70,98,15,140,100,1,0,0,0,2,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+63,90,98,15,140,90,0,0,0,1,5,0,5,1,0,1,High,"Miscarriage Risk, Recurrent Pregnancy Loss, Placental Abruption, Gestational Diabetes, IUGR"
+25,80,98,7.9,140,100,1,0,0,0,5,1,3,1,0,0,High,"Anxiety, Hypertension disorders, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+30,76,101,7.9,120,80,1,1,0,0,3,0,4,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+55,90,98,18,140,100,0,0,1,0,4,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,78,98,7.9,140,100,1,0,0,0,3,0,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+30,70,98,15,140,100,0,0,0,0,3,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+48,88,98,11,120,80,1,1,0,0,1,1,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+49,90,98,15,140,90,1,0,1,0,5,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+25,80,98,7.5,140,100,0,1,0,0,3,0,3,1,1,0,High,"Anemia, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+40,77,98,19,160,100,0,0,0,0,1,1,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,0,0,1,4,0,2,0,1,0,High,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+35,66,98,7.5,140,100,0,0,1,0,3,0,5,1,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+54,66,98,15,140,100,1,1,0,0,5,0,5,1,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+55,77,98,19,140,95,1,0,0,0,3,1,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+29,80,98,9,120,70,0,1,0,0,4,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+48,88,98,11,120,80,0,0,0,0,3,1,4,0,0,0,High,Gestational Diabetes
+40,77,98,19,160,100,0,0,0,0,5,0,5,0,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,1,0,0,1,0,5,1,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+35,66,98,7.5,140,100,0,1,0,0,5,1,5,1,0,0,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+54,66,98,15,140,100,0,1,0,0,1,0,4,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+40,80,98,11,120,95,1,1,0,0,2,0,5,0,0,1,High,"Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+22,60,102,7.5,90,60,0,1,1,1,5,0,4,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+40,60,98,15,120,85,0,1,0,0,5,0,2,1,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+55,77,98,19,140,95,1,1,1,0,4,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+50,75,98,16,130,100,0,1,0,0,3,0,2,0,0,1,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+18,76,102,6.9,120,80,1,1,0,0,1,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+32,78,98,6.9,140,100,1,1,0,0,1,0,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia"
+17,76,101,6.9,90,60,0,1,0,0,4,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+17,70,101,6.9,90,63,0,0,0,0,4,0,1,0,0,0,Low,"Anxiety, Depression"
+25,80,101,6.7,120,90,0,1,0,0,3,0,3,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+17,76,102,6.7,120,80,0,1,0,0,3,1,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+14,70,101,7,90,65,0,0,1,0,5,0,1,0,0,0,High,"Anxiety, Depression"
+15,80,98,6.7,80,60,0,1,0,0,2,0,3,0,0,0,Low,Hyperemesis Gravidarum
+15,76,98,6.7,100,65,0,0,1,0,3,1,5,0,0,0,Low,None
+12,77,98,6.7,95,60,0,0,0,0,4,0,5,0,1,0,Low,Anemia
+37,88,98,11,120,90,0,1,0,1,3,1,3,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+18,76,98,6.7,100,70,1,0,0,1,1,0,4,1,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+21,70,98,6.7,100,85,0,1,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+17,76,101,12,110,75,0,1,0,0,5,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+25,80,98,7.5,120,90,0,0,0,0,1,0,3,1,0,0,Low,Gestational Diabetes
+23,70,98,7.5,85,65,1,0,0,1,1,0,3,1,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+12,65,98,7.5,95,60,0,0,0,1,2,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+28,70,98,7.5,120,90,0,1,0,0,5,0,5,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+40,80,98,12,120,90,1,1,1,0,4,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+55,88,98,7.5,129,85,0,1,1,0,5,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+25,76,98,7.5,100,90,1,0,1,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+35,80,98,7.5,120,80,0,1,1,0,1,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+21,76,98,7.5,90,65,0,0,0,1,3,0,4,1,1,0,Low,"Anemia, Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+18,70,98,7.5,90,60,0,1,0,0,4,1,5,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+21,76,98,7.5,120,80,0,0,1,0,3,0,4,0,1,1,Low,"Anemia, IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+16,80,98,7.2,100,70,0,1,0,1,5,1,5,0,0,0,Low,"Miscarriage Risk, Anxiety, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes, Perinatal Depression"
+19,66,98,7.2,120,75,1,0,0,0,3,0,1,0,0,1,Low,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+40,77,98,19,160,100,0,1,0,0,4,0,2,1,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+32,88,98,18,140,90,0,0,0,0,4,0,4,0,0,0,High,Gestational Diabetes
+22,70,98,7.2,100,65,0,1,0,0,4,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+49,77,98,7.2,120,90,0,1,1,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+28,82,98,7.2,90,60,0,0,0,0,4,0,4,0,1,0,Low,"Anemia, Gestational Diabetes"
+12,66,102,7.9,90,60,0,1,0,0,1,0,4,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+20,88,98,7.1,100,90,0,1,1,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,66,98,7.1,100,85,0,0,0,0,3,0,5,0,1,1,Low,"Anemia, IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+22,82,98,7.1,120,90,0,0,0,0,3,0,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+21,77,98,7.1,120,80,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+35,66,98,8,140,100,0,0,0,0,5,1,4,1,0,0,High,"Anxiety, Hypertension disorders, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+54,66,98,15,140,100,0,0,1,0,3,0,1,1,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+40,80,98,11,120,95,1,0,0,0,5,0,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+21,70,98,6.1,75,50,0,1,1,0,5,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+12,60,102,6.1,95,60,0,0,0,0,4,0,5,0,0,0,Low,None
+60,60,98,15,120,85,0,1,1,0,1,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+55,77,98,19,140,95,1,1,1,0,4,0,3,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,75,98,16,130,100,1,1,1,1,4,0,2,1,1,0,High,"Anemia, Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Placental Abruption, Gestational Diabetes"
+60,75,98,6.1,120,80,0,1,0,0,5,0,4,1,0,0,Low,Hyperemesis Gravidarum
+55,66,98,6.1,100,65,0,0,1,0,5,1,1,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression, Depression"
+45,66,98,6.1,120,95,1,1,0,0,3,1,5,0,0,0,Low,"Hyperemesis Gravidarum, Preeclampsia, Hypertension disorders"
+35,66,98,6.1,100,70,0,0,0,0,3,0,1,1,0,0,Low,"Anxiety, Depression"
+22,88,98,6.1,120,85,0,0,1,0,4,0,2,0,1,0,Low,"Anemia, Anxiety, Depression"
+13,80,101,7.9,90,65,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,60,98,6.1,120,90,0,0,1,0,2,0,1,0,0,0,Low,"Anxiety, Depression"
+17,67,103,6.1,90,65,1,1,0,0,3,0,2,0,0,0,High,"Anxiety, Hyperemesis Gravidarum, Depression"
+28,86,101,8,83,60,1,1,0,0,2,0,4,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,70,98,15,120,80,0,0,0,0,3,1,2,0,0,1,High,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+25,80,98,6.1,90,70,0,0,0,0,5,0,5,0,0,0,Low,None
+30,70,98,6.1,120,80,0,1,0,1,4,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+31,76,98,6.1,120,60,1,0,0,0,1,0,3,0,0,0,Low,None
+23,70,98,6.1,120,90,1,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Depression"
+29,78,98,6.1,130,70,1,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+17,86,102,9,85,60,1,1,0,0,3,1,5,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+32,70,98,7.5,120,90,0,1,0,0,4,0,5,1,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+42,70,98,7.5,120,80,0,0,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,76,98,7.5,90,60,0,0,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,1,1,0,0,2,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+15,77,98,7.5,76,49,0,1,1,0,3,0,5,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+33,70,98,10,120,75,0,0,1,0,3,0,1,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+48,88,98,11,120,80,0,1,0,1,2,0,1,0,1,0,High,"Anemia, Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+15,70,98,7,120,80,0,0,0,0,3,1,3,0,0,1,Low,"IUGR, Recurrent Pregnancy Loss"
+25,66,98,7,120,80,0,0,1,0,3,0,1,0,1,0,Low,"Anemia, Anxiety, Depression"
+22,80,98,7,100,65,0,1,0,0,4,0,2,1,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+50,60,98,17,140,95,0,0,0,0,1,0,5,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+35,60,98,7,100,70,0,1,0,0,2,0,4,0,0,1,Low,"IUGR, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+19,60,98,7,120,85,0,0,1,0,4,0,3,1,0,0,Low,None
+60,77,98,7,90,65,0,0,0,0,1,0,5,0,0,0,Low,None
+28,86,101,9,85,60,1,1,0,0,3,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,70,98,6.7,140,80,0,0,1,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+29,80,98,6.7,90,70,0,1,1,0,4,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+30,70,98,15,140,100,1,0,0,1,3,1,2,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+31,76,98,6.1,120,60,0,0,0,0,5,0,1,0,0,0,Low,"Anxiety, Depression"
+23,70,98,6.7,120,90,1,0,1,0,4,0,1,0,0,0,Low,"Anxiety, Depression"
+29,78,98,6.7,130,70,0,1,0,0,1,0,5,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+17,86,102,9,85,60,0,0,0,0,4,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+32,70,98,6.4,120,90,0,1,0,0,2,0,3,0,0,0,Low,Hyperemesis Gravidarum
+42,70,98,6.4,120,80,0,0,1,0,4,0,3,0,0,0,Low,None
+23,76,98,6.4,90,60,0,1,0,0,3,0,3,0,0,0,Low,Hyperemesis Gravidarum
+19,70,98,7,120,80,0,0,1,0,3,0,5,0,1,0,Low,Anemia
+15,77,98,6.4,76,49,1,1,1,0,5,0,2,1,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+29,70,100,7.2,120,75,0,1,0,0,5,0,4,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+48,88,98,11,120,80,1,1,0,0,5,0,1,0,1,0,High,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+15,70,98,7.2,120,80,0,1,0,0,1,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,77,98,15,140,90,1,1,0,0,5,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+25,80,98,7.2,140,100,0,1,0,0,1,0,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+55,76,101,7.2,140,80,0,0,1,0,5,0,5,0,1,0,High,"Anemia, Gestational Diabetes"
+20,70,100,7,110,60,0,0,0,0,1,0,3,1,0,0,Low,None
+40,77,98,18,140,100,0,1,1,0,4,1,3,0,0,0,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+28,76,102,9,120,80,1,1,0,0,4,1,2,0,1,0,High,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes, Perinatal Depression"
+32,70,98,8,140,100,0,1,0,0,3,1,5,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+17,78,101,11,90,60,0,0,0,0,1,0,5,0,0,0,High,Gestational Diabetes
+17,70,101,8,90,63,0,0,0,0,2,0,1,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+25,80,101,12,120,90,0,0,0,0,3,0,3,0,0,0,High,Gestational Diabetes
+17,76,102,7,120,80,1,1,0,1,4,0,2,1,0,0,High,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+19,70,101,11,90,65,1,0,0,1,1,0,4,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+15,80,98,7,80,60,1,0,0,0,5,0,3,0,0,0,Low,None
+32,76,101,6,120,65,0,0,0,0,2,0,1,0,0,0,Low,"Anxiety, Depression"
+12,77,98,7.2,95,60,0,0,0,0,4,0,5,0,0,0,Low,Gestational Diabetes
+37,88,98,11,120,90,1,0,0,0,3,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+18,76,98,6.8,100,70,0,0,1,1,1,1,3,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+21,70,98,6.9,100,85,1,1,0,0,2,0,4,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+17,76,101,13,110,75,1,0,0,0,1,0,1,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+25,80,98,15,120,90,1,0,0,1,5,1,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes, Perinatal Depression"
+10,70,98,6.9,85,65,0,0,0,0,3,0,3,0,0,0,Low,None
+12,65,98,6.9,95,60,0,0,0,0,1,0,4,1,1,1,Low,"Anemia, IUGR, Recurrent Pregnancy Loss"
+28,70,98,6.9,120,90,1,0,0,1,4,0,1,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+40,80,98,6.9,120,90,0,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+55,88,98,6.9,110,85,0,1,0,0,4,1,1,1,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Perinatal Depression"
+25,76,98,6.9,100,90,0,0,0,0,1,0,4,0,1,0,Low,Anemia
+35,80,98,6.9,120,80,1,1,0,0,3,0,5,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+21,76,98,6.9,90,65,0,1,0,0,4,0,5,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+18,70,98,6.9,90,60,0,1,1,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+21,76,98,6.9,120,80,0,0,0,1,5,1,4,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Perinatal Depression"
+16,80,98,6.9,100,70,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Depression"
+19,66,98,6.9,120,75,1,0,0,0,3,0,1,0,0,1,Low,"Anxiety, IUGR, Recurrent Pregnancy Loss, Depression"
+40,77,98,19,160,100,0,0,0,0,2,0,5,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,1,0,0,3,0,5,0,1,1,High,"Anemia, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+22,70,98,6.9,100,65,1,0,0,0,5,1,2,0,1,1,Low,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, Perinatal Depression, IUGR"
+49,77,98,6.9,120,90,1,0,0,0,4,0,5,0,0,0,Low,None
+28,82,98,6.9,90,60,0,1,0,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+12,66,102,8,90,60,1,1,0,0,1,0,1,0,1,0,High,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+20,88,98,7,100,90,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+23,66,98,7,100,85,0,0,0,0,1,0,2,0,0,0,Low,"Anxiety, Depression"
+22,82,98,7,120,90,1,0,0,0,2,1,3,0,0,0,Low,None
+21,77,98,7,120,80,1,0,0,0,1,0,5,0,0,0,Low,None
+35,66,98,9,140,100,1,0,1,0,1,1,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+54,66,98,15,140,100,1,0,0,0,2,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+40,80,98,11,120,95,0,0,0,0,2,0,4,1,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+21,60,98,7.7,75,50,0,0,0,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+12,60,102,11,90,60,1,0,1,0,5,0,5,0,1,0,High,"Anemia, Gestational Diabetes"
+60,60,98,15,120,85,0,0,0,0,2,1,3,0,0,0,High,Gestational Diabetes
+55,77,98,19,140,95,1,0,0,0,3,0,1,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+50,76,98,16,130,100,1,1,0,0,4,0,3,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+60,75,98,7.7,120,80,1,1,0,0,1,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+55,66,98,7.7,100,65,0,0,0,0,1,0,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+45,66,98,7.7,120,95,0,0,0,0,4,0,2,1,0,0,Low,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+35,66,98,7.7,100,70,0,0,1,0,5,0,5,0,0,0,Low,Gestational Diabetes
+22,88,98,7.7,120,85,0,1,0,0,4,0,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+13,80,101,9,90,65,0,1,0,0,2,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+23,60,98,7.7,120,90,0,0,1,0,4,0,4,1,0,0,Low,Gestational Diabetes
+17,67,103,7.7,90,65,0,1,0,0,1,0,3,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+26,86,101,6,85,60,0,0,0,0,4,0,4,0,1,0,Low,Anemia
+50,70,98,7.7,120,80,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+19,80,98,7.7,90,70,0,1,0,0,2,1,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+30,70,98,7.7,120,80,0,1,0,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+31,76,98,6.1,120,60,1,1,1,1,1,0,4,0,0,1,Low,"Miscarriage Risk, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Placental Abruption, IUGR"
+23,70,98,7.7,120,80,0,1,0,0,2,0,3,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+29,78,98,7.7,130,70,0,0,0,1,1,0,3,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+17,86,102,6.3,85,60,0,1,0,0,5,0,3,0,0,0,High,Hyperemesis Gravidarum
+32,70,98,7.7,120,90,1,0,1,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,70,98,7.7,120,80,0,1,1,0,5,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+23,76,98,7.7,90,60,0,0,1,1,3,0,3,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+19,70,98,7,120,80,0,1,0,0,4,0,4,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+15,77,98,7.7,75,49,0,0,0,0,2,1,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+40,70,98,7.7,120,75,0,1,0,0,4,1,5,0,0,0,High,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+48,88,98,11,120,80,0,0,0,0,3,0,5,0,0,0,High,Gestational Diabetes
+15,70,98,7.7,120,80,0,1,0,0,3,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+25,66,98,7.7,120,80,1,0,0,0,3,1,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+22,80,98,6.9,100,65,1,0,0,0,1,0,3,0,0,0,Low,None
+12,60,98,6.9,120,95,0,0,0,0,2,1,2,0,0,1,Low,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+35,60,98,6.9,100,70,0,0,0,0,4,0,4,1,1,0,Low,Anemia
+19,60,98,6.9,120,85,1,1,0,0,4,1,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Perinatal Depression, Depression"
+60,77,98,6.9,90,65,0,0,0,0,5,0,4,0,0,0,Low,None
+55,76,98,6.9,120,90,0,1,0,1,3,1,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+35,75,98,6.9,90,65,0,0,0,0,3,0,4,0,0,0,Low,None
+51,66,98,6.9,85,60,0,0,1,0,3,0,2,0,1,1,Low,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, IUGR"
+62,66,98,6.9,120,80,1,1,0,0,4,1,3,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Perinatal Depression"
+25,66,98,6.9,90,70,1,1,0,0,5,0,2,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+21,88,98,6.9,120,80,0,0,0,0,1,0,3,0,1,0,Low,Anemia
+22,80,98,15,120,60,0,0,1,0,2,0,3,0,0,0,High,Gestational Diabetes
+55,60,98,18,120,90,0,1,0,0,1,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+54,67,98,12,130,70,0,0,0,0,4,1,2,0,1,0,Low,"Anemia, Anxiety, Depression, Gestational Diabetes, Perinatal Depression"
+35,86,98,19,85,60,0,1,0,0,3,0,3,1,0,1,High,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+43,70,98,18,120,90,0,1,0,0,2,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+12,80,98,6.9,120,80,1,1,0,0,4,0,3,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+65,70,98,6.9,90,60,0,0,0,1,4,0,5,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+60,76,98,6.9,120,80,0,1,1,0,4,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+25,70,98,6.9,120,90,1,0,0,0,2,0,2,0,1,1,Low,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, IUGR"
+22,78,98,6.9,90,65,1,0,1,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+66,86,98,6.9,85,60,0,0,0,0,5,1,3,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression"
+56,70,98,13,120,80,0,0,0,0,5,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+35,70,98,6.9,90,70,0,1,1,0,1,0,3,0,0,0,Low,Hyperemesis Gravidarum
+43,76,98,15,120,80,0,1,0,0,2,1,3,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+35,70,98,6.9,120,60,0,1,0,0,2,0,4,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+44,80,98,16,120,90,1,0,0,0,2,1,4,0,0,0,Low,Gestational Diabetes
+23,70,98,6.9,130,70,0,0,0,0,5,0,3,0,1,0,Low,Anemia
+22,76,98,6.9,85,60,0,0,0,0,4,1,5,0,0,0,Low,"Anxiety, Perinatal Depression"
+55,70,98,12,120,90,0,1,0,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+35,78,98,6.9,120,80,0,0,0,0,5,1,3,0,0,0,Low,"Anxiety, Perinatal Depression"
+21,86,98,6.9,90,60,1,1,0,0,2,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+45,70,103,6.9,120,80,1,0,0,0,5,0,5,0,0,0,Low,None
+70,70,102,6.9,85,60,0,0,0,0,1,0,2,0,0,0,Low,"Anxiety, Depression"
+65,76,103,6.9,120,90,0,1,0,0,2,0,3,0,0,0,Low,Hyperemesis Gravidarum
+55,80,102,6.9,120,80,0,0,0,0,1,0,3,0,1,0,Low,Anemia
+45,70,101,18,90,60,0,1,0,0,2,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+22,76,103,6.9,120,80,0,1,0,0,5,0,4,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+16,76,98,6.9,90,65,0,0,1,1,4,0,4,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+12,77,98,6.9,95,60,0,0,0,0,3,0,4,1,0,0,Low,None
+37,88,98,11,120,90,0,0,0,0,1,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+18,76,98,6.9,100,70,0,1,0,0,5,0,5,0,0,0,Low,Hyperemesis Gravidarum
+21,70,98,6.9,100,85,0,0,0,0,4,0,5,0,0,0,Low,None
+17,76,101,6.9,110,75,0,1,0,0,5,0,4,0,0,0,High,Hyperemesis Gravidarum
+25,80,98,6.9,120,90,0,1,1,1,1,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+33,70,98,7,115,65,0,1,0,1,3,0,1,1,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+12,65,98,6.9,95,60,1,0,1,0,5,0,1,1,0,1,Low,"Anxiety, IUGR, Recurrent Pregnancy Loss, Depression"
+28,70,98,6.9,120,90,0,1,1,1,2,1,3,1,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+40,80,98,6.9,120,90,0,1,1,1,4,0,3,0,0,0,High,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+55,88,98,6.9,110,85,0,0,1,0,5,0,5,0,0,0,High,None
+25,76,98,6.9,100,90,0,0,0,0,4,0,5,0,0,0,High,None
+35,80,98,6.9,120,80,0,1,0,0,2,0,2,0,0,0,High,"Anxiety, Hyperemesis Gravidarum, Depression"
+21,76,98,6.9,90,65,0,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+18,70,98,6.9,90,60,1,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+21,76,98,6.9,120,80,0,0,0,0,2,0,3,0,0,0,Low,None
+16,80,98,6.9,100,70,0,0,0,1,4,0,1,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+19,66,98,6.9,120,75,0,1,0,0,5,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+40,77,98,19,160,100,0,0,0,0,2,0,3,0,0,1,High,"Hypertension disorders, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+32,88,98,18,140,90,0,0,0,0,1,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+23,66,98,6.9,100,85,1,0,0,1,4,0,3,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+22,82,98,7.8,120,90,0,0,0,1,3,1,4,0,1,0,Low,"Anemia, Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+21,77,98,7.8,120,80,1,0,1,0,2,0,4,0,0,0,Low,Gestational Diabetes
+35,66,98,7.8,140,100,1,0,0,0,3,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+54,66,98,15,140,100,0,1,0,0,4,1,5,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+40,80,98,11,120,95,0,0,0,0,3,0,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+21,60,98,7.8,75,50,0,1,0,0,2,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+12,60,102,7.8,90,60,0,0,0,0,4,0,5,0,1,0,High,"Anemia, Gestational Diabetes"
+60,60,98,15,120,85,0,1,0,0,1,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+55,77,98,19,140,95,0,0,0,0,2,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,75,98,16,130,100,0,1,0,0,5,0,4,0,0,1,High,"Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+60,75,98,7.8,120,80,0,0,0,0,2,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+55,66,98,7.8,100,65,1,0,0,0,4,1,3,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression"
+45,66,98,7.8,120,95,0,0,0,0,2,0,3,0,0,0,Low,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+35,66,98,7.8,100,70,1,0,0,0,1,0,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+22,88,98,7.8,120,85,0,0,0,0,1,1,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+13,80,101,7.8,90,65,0,0,1,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,60,98,7.8,120,90,0,1,0,0,3,0,3,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+17,67,103,7.8,90,65,0,0,0,0,4,0,1,0,1,1,High,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+28,86,101,7.8,115,60,1,0,0,0,4,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+50,70,98,7.8,120,80,1,1,0,0,3,1,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,80,98,7.8,90,70,1,1,0,0,1,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+30,70,98,7.8,120,80,0,0,0,1,1,1,1,0,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+31,76,98,6.1,120,60,0,0,1,0,2,0,3,0,1,0,Low,Anemia
+23,70,98,7.8,120,70,1,0,0,0,5,0,4,0,0,0,Low,Gestational Diabetes
+29,78,98,7.8,130,70,1,1,0,1,5,1,4,0,0,1,Low,"Miscarriage Risk, Anxiety, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Placental Abruption, Gestational Diabetes, Perinatal Depression, IUGR"
+17,86,102,7.8,85,69,1,1,0,0,5,0,5,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+32,70,98,7.8,120,90,0,0,0,0,2,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,70,98,7.8,120,80,0,1,0,0,5,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,76,98,7.8,90,60,1,1,0,0,3,1,2,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+19,70,98,7,120,80,0,0,1,0,2,0,3,1,1,0,Low,Anemia
+15,77,98,7.8,76,49,1,1,0,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+20,70,98,7.8,120,75,1,0,0,1,2,0,5,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+48,88,98,11,120,80,0,0,1,1,5,0,2,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+15,70,98,7.8,120,80,1,0,0,0,3,0,4,0,0,0,Low,Gestational Diabetes
+25,66,98,7.8,120,80,1,0,1,0,3,0,3,0,0,0,Low,Gestational Diabetes
+22,80,98,7.8,100,65,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+12,60,98,7.8,120,95,1,1,1,1,2,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Placental Abruption, Gestational Diabetes"
+35,60,98,7.8,100,70,0,0,0,1,4,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+19,60,98,7.8,120,85,1,0,1,0,5,1,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+60,77,98,6.8,90,65,0,0,1,0,3,0,5,0,0,0,Low,None
+55,66,98,6.8,120,90,1,1,0,0,4,1,5,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Perinatal Depression"
+25,66,98,6.8,120,80,0,0,1,0,5,0,4,0,1,1,Low,"Anemia, IUGR, Recurrent Pregnancy Loss"
+22,88,98,6.8,100,65,0,0,0,0,5,0,3,1,0,0,Low,None
+12,60,98,6.8,120,95,1,0,0,0,3,1,4,0,1,0,Low,"Anemia, Preeclampsia, Hypertension disorders"
+35,60,98,6.8,100,70,0,0,0,0,3,0,5,0,0,0,Low,None
+19,60,98,6.8,120,90,0,1,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+60,77,98,6.8,90,65,1,1,0,0,4,1,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Perinatal Depression, Depression"
+55,78,98,6.8,120,90,1,0,0,1,4,0,2,1,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+50,76,102,16,130,80,0,1,0,0,3,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+27,68,102,6.8,120,90,0,1,1,0,5,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+60,77,98,12,140,90,0,1,1,0,3,0,5,1,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+55,80,101,6.8,100,70,0,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Depression"
+60,66,98,16,140,80,0,0,0,0,5,0,4,0,0,0,High,Gestational Diabetes
+12,80,98,6.8,120,90,0,0,0,0,3,0,4,0,0,0,Low,None
+17,80,103,6.8,140,100,1,1,0,0,1,0,5,0,1,0,High,"Anemia, Hyperemesis Gravidarum, Preeclampsia, Hypertension disorders"
+60,77,98,6.8,120,80,1,0,0,0,4,0,2,0,0,1,Low,"Anxiety, IUGR, Recurrent Pregnancy Loss, Depression"
+22,88,98,6.8,100,65,1,0,0,0,5,0,4,1,0,0,Low,None
+36,76,102,6.8,140,100,0,0,0,0,5,0,2,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia"
+22,77,98,6.8,90,60,0,1,1,0,1,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+25,60,98,6.8,120,100,0,0,0,0,2,0,4,0,0,1,Low,"Recurrent Pregnancy Loss, IUGR, Preeclampsia, Hypertension disorders"
+35,80,98,15,100,60,0,1,0,0,1,0,1,0,1,0,High,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+40,66,101,13,140,100,0,1,0,0,1,0,4,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+27,77,98,6.8,120,70,1,0,0,0,5,0,5,0,0,0,Low,None
+36,76,102,6.8,140,100,0,1,0,0,4,1,3,1,0,1,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Perinatal Depression, IUGR"
+22,77,98,6.8,90,60,0,0,0,0,1,0,4,0,1,0,Low,Anemia
+25,60,98,6.8,120,100,0,1,0,0,2,0,2,0,0,0,Low,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia"
+35,80,98,15,100,60,1,0,0,0,3,0,2,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+40,66,101,13,140,100,0,1,1,0,1,0,4,1,1,0,High,"Anemia, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+27,77,98,6.8,120,70,0,1,1,0,1,1,3,0,0,0,Low,Hyperemesis Gravidarum
+27,77,98,6.8,120,70,0,1,0,1,2,1,4,0,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+65,86,98,15,130,80,1,1,0,0,4,0,3,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+35,70,98,13,140,80,0,0,0,0,1,0,3,1,0,0,High,Gestational Diabetes
+29,80,98,10,90,70,1,1,0,0,1,1,5,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+30,70,98,6.8,120,80,1,1,0,0,4,1,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Perinatal Depression"
+35,76,98,6.1,120,60,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+23,70,98,6.8,140,90,0,0,0,0,1,0,3,0,0,0,High,None
+23,78,98,6.8,130,70,1,1,0,1,4,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+35,86,102,11,85,60,0,1,0,0,1,1,1,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+32,70,98,6.8,120,90,0,1,1,0,3,0,3,0,0,0,Low,Hyperemesis Gravidarum
+43,70,98,18,130,80,1,0,1,0,5,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,76,98,6.8,99,60,1,1,0,0,3,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+19,70,98,7,120,80,1,0,0,0,1,0,5,0,0,0,Low,None
+15,77,98,6.8,76,49,1,1,1,0,2,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+30,70,98,6.8,120,75,0,0,0,0,5,1,1,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression, Depression"
+48,88,98,11,120,80,0,1,1,0,3,0,4,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,6.8,120,80,1,1,0,1,4,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+48,90,98,15,140,90,0,0,1,1,2,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+25,80,98,6.8,140,100,0,1,0,0,3,0,3,0,0,1,High,"Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+29,80,98,6.8,100,70,1,0,1,0,4,0,3,0,0,0,Low,None
+32,70,98,6.8,120,80,0,1,1,1,1,0,2,0,0,1,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Placental Abruption, IUGR"
+35,76,98,6.1,120,60,0,1,0,1,4,0,4,0,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+23,70,98,6.8,140,90,0,0,0,0,3,0,3,0,0,1,High,"IUGR, Recurrent Pregnancy Loss"
+23,78,98,6.8,130,70,0,1,1,0,3,0,3,0,0,0,Low,Hyperemesis Gravidarum
+34,86,102,11,85,60,0,1,0,0,1,0,4,1,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+32,70,98,6.8,120,90,0,0,1,0,4,1,5,0,0,0,Low,"Anxiety, Perinatal Depression"
+42,70,98,18,130,80,0,0,0,1,4,1,3,0,0,0,Low,"Miscarriage Risk, Anxiety, Placental Abruption, Gestational Diabetes, Perinatal Depression"
+23,76,98,6.8,90,60,0,1,0,0,1,0,1,0,1,1,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, IUGR"
+19,70,98,7,120,80,1,1,0,1,4,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+15,77,98,6.8,76,49,0,1,0,0,1,1,3,1,0,0,Low,Hyperemesis Gravidarum
+20,70,98,6.8,120,75,1,1,1,1,2,0,3,0,0,1,Low,"Miscarriage Risk, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Placental Abruption, IUGR"
+48,88,98,11,120,80,0,0,0,0,3,1,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+15,70,98,6.8,120,80,0,1,0,0,2,1,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+50,90,98,15,140,90,1,0,0,0,5,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+25,80,98,6.8,140,100,0,0,0,0,5,0,3,1,1,1,High,"Anemia, Hypertension disorders, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+30,76,101,6.8,120,80,1,0,1,0,5,1,2,0,0,0,Low,"Anxiety, Perinatal Depression, Depression"
+31,70,100,6.8,110,90,0,0,1,1,1,0,4,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+42,90,98,18,140,100,1,0,0,0,4,0,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+18,76,102,6.8,120,80,0,0,1,1,2,0,3,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+32,78,98,7.9,140,100,1,1,1,1,2,0,4,0,0,0,High,"Miscarriage Risk, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Placental Abruption, Gestational Diabetes"
+17,76,101,7.9,90,60,0,0,0,0,2,0,5,0,0,1,Low,"IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+19,70,98,7,120,80,1,0,1,0,2,0,3,0,0,1,Low,"IUGR, Recurrent Pregnancy Loss"
+15,77,98,7.9,76,49,0,0,0,0,5,1,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+19,70,98,7.9,120,75,0,0,0,0,2,0,1,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+48,88,98,11,120,80,1,0,1,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+15,70,98,7.9,120,80,0,0,0,0,5,0,5,0,0,0,Low,Gestational Diabetes
+25,66,98,7.9,120,80,0,1,1,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+22,80,98,7.9,100,65,0,1,1,0,1,0,2,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+50,60,98,17,140,95,0,1,0,0,3,1,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+35,60,98,7.9,100,70,0,0,1,0,3,1,4,0,0,0,Low,Gestational Diabetes
+19,60,98,7.9,120,85,0,0,0,1,3,0,5,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+60,77,98,7.9,90,65,1,1,0,0,5,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+38,86,101,7.9,135,60,0,0,0,1,2,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+50,70,98,7.9,120,80,0,0,1,0,5,0,4,0,0,0,Low,Gestational Diabetes
+39,80,98,9,90,70,1,0,0,0,4,0,5,0,0,0,High,Gestational Diabetes
+30,70,98,15,140,100,1,0,0,0,1,0,3,0,1,1,High,"Anemia, Hypertension disorders, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+31,76,98,6.1,120,60,0,0,0,0,1,1,3,1,0,0,Low,None
+23,70,98,7.9,120,90,0,0,0,0,3,0,1,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+29,78,98,7.9,130,70,0,0,0,0,3,0,3,0,0,0,Low,Gestational Diabetes
+17,86,102,7.9,85,60,0,0,0,0,3,0,4,0,0,0,Low,Gestational Diabetes
+32,70,98,7.9,120,90,0,1,0,0,2,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+42,70,98,7.9,120,80,0,1,0,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,76,98,7.9,90,60,0,1,1,0,4,0,1,1,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+19,70,98,7,120,80,0,1,0,0,4,0,1,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+15,77,98,7.9,76,49,1,1,0,0,4,0,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+16,7,98,7.9,120,75,1,0,1,0,3,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+48,88,98,11,120,80,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+15,70,98,7.9,120,80,0,0,1,0,3,0,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+63,90,98,15,140,90,0,1,0,1,4,0,2,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+25,80,98,7.9,140,100,1,1,1,0,3,1,5,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+30,76,101,7.9,120,80,0,0,0,0,4,0,4,0,0,0,High,Gestational Diabetes
+17,70,98,7.9,70,50,0,1,0,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+55,90,98,18,140,100,1,0,0,0,1,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+18,76,102,7.9,120,80,1,1,1,0,5,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+32,78,98,7.9,140,100,1,0,0,0,2,0,4,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+17,76,101,7.5,90,60,1,0,0,0,3,0,2,0,0,1,Low,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+17,70,101,7.5,90,63,0,0,1,0,2,0,3,1,1,0,Low,"Anemia, Gestational Diabetes"
+25,80,101,7.5,120,90,0,0,1,0,3,0,3,1,0,0,Low,Gestational Diabetes
+17,76,102,7.5,120,80,1,0,0,0,5,1,3,1,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression"
+19,70,101,7.5,90,65,1,0,1,0,4,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+15,80,98,7.5,80,60,0,1,1,0,4,1,5,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Gestational Diabetes, Perinatal Depression"
+60,77,98,7.5,90,65,0,0,0,0,3,0,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+18,86,101,7.5,85,60,0,0,0,0,4,0,4,1,0,0,Low,Gestational Diabetes
+50,70,98,7.5,120,80,1,1,0,0,5,1,2,1,0,0,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes, Perinatal Depression"
+19,80,98,7.5,90,70,1,1,0,0,4,0,4,1,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+30,70,98,15,140,100,0,0,0,0,5,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+31,76,98,6.1,120,60,0,0,0,0,2,0,1,1,0,0,Low,"Anxiety, Depression"
+23,70,98,7.5,120,90,0,0,0,0,5,0,4,0,0,0,Low,Gestational Diabetes
+29,78,98,7.5,130,70,1,0,0,0,1,0,5,0,0,0,Low,Gestational Diabetes
+17,86,102,7.5,85,60,1,1,0,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+32,70,98,7.5,120,90,1,0,1,0,1,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,70,98,7.5,120,80,0,0,1,0,3,0,4,0,0,0,Low,Gestational Diabetes
+42,76,98,7.5,90,60,0,1,0,0,3,1,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+19,70,98,7,120,80,0,0,1,1,3,1,5,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+15,77,98,7.5,78,49,0,0,0,0,5,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+23,70,98,8,120,75,1,0,0,0,3,0,5,1,1,0,Low,"Anemia, Gestational Diabetes"
+48,88,98,11,120,80,1,1,0,0,2,1,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+15,70,98,7.5,120,80,1,0,0,1,1,1,5,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+49,90,98,15,140,90,1,1,1,1,5,0,5,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+25,80,98,7.5,140,100,0,0,0,0,1,0,2,1,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+30,76,101,7.5,120,80,1,0,0,0,3,0,3,0,0,0,Low,Gestational Diabetes
+16,70,100,7.5,70,50,1,1,0,0,5,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+16,80,98,7.5,100,70,1,1,0,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,66,98,7.5,120,75,0,1,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+40,77,98,19,160,100,0,1,0,0,3,0,4,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,1,0,0,3,0,1,1,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+22,70,98,7.5,100,65,1,0,1,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+49,77,98,7.5,120,90,0,0,1,1,2,0,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+28,82,98,7.5,90,60,0,1,0,0,4,0,1,1,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+12,66,102,7.5,90,60,0,0,1,0,3,0,1,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+20,88,98,7.5,100,90,0,1,0,0,3,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,66,98,7.5,100,85,0,1,0,0,1,0,3,1,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+22,82,98,7.5,120,90,0,0,0,0,5,0,4,0,0,0,Low,Gestational Diabetes
+21,77,98,7.5,120,80,0,0,0,0,5,1,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+35,66,98,7.5,140,100,0,1,1,1,1,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Placental Abruption, Gestational Diabetes"
+54,66,98,15,140,100,1,0,0,0,5,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+40,80,98,11,120,95,0,1,0,0,2,0,1,0,0,0,Low,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+21,60,98,7.5,75,50,1,0,0,0,5,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+12,60,102,7.5,90,60,0,1,0,0,5,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+60,60,98,15,120,85,0,0,1,0,1,0,4,0,1,0,Low,"Anemia, Gestational Diabetes"
+55,77,98,19,140,95,1,1,0,0,4,0,5,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,75,98,16,130,100,0,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+60,75,98,7.5,120,80,0,0,0,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+55,66,98,7.5,100,65,0,0,0,0,4,0,4,0,0,0,Low,Gestational Diabetes
+45,66,98,7.5,120,95,1,1,0,0,1,0,5,0,0,1,Low,"Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+35,66,98,7.5,100,70,0,1,0,0,4,0,4,0,1,1,Low,"Anemia, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+22,88,98,7.5,120,85,1,0,0,0,1,0,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+13,80,101,7.5,90,65,0,0,0,0,2,0,5,0,0,0,Low,Gestational Diabetes
+23,60,98,7.5,120,90,0,0,1,0,1,1,4,0,0,1,Low,"IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+17,67,103,7.5,90,65,0,1,1,0,2,0,3,1,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+28,86,101,7.5,115,60,0,1,0,0,2,1,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+59,70,98,7.5,120,80,0,0,0,0,1,0,4,0,0,0,Low,Gestational Diabetes
+29,80,98,9,120,70,0,0,0,1,3,0,5,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+23,70,98,7.5,120,80,0,0,1,1,1,0,3,1,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+31,76,98,6.1,120,60,1,0,0,0,5,1,1,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression, Depression"
+23,70,98,7.5,120,80,0,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+29,78,98,7.5,130,70,0,1,0,0,3,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+17,86,102,7.5,85,60,1,0,0,0,2,0,3,0,0,0,Low,Gestational Diabetes
+32,70,98,7.5,120,90,0,1,0,0,3,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+42,70,98,7.5,120,80,0,0,0,0,5,0,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+23,76,98,7.5,90,60,1,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,1,1,0,0,1,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+15,77,98,7.5,78,49,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+20,70,98,7.5,120,75,1,1,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+48,88,98,11,120,80,0,0,0,0,1,0,2,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+15,70,98,7.5,120,80,0,0,0,0,4,0,5,0,0,0,Low,Gestational Diabetes
+24,66,98,7.5,120,80,0,1,0,0,5,0,5,1,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+16,80,98,7.5,100,70,1,0,0,1,5,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+19,66,98,7.5,120,76,0,0,1,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+40,77,98,19,160,100,0,0,0,0,1,1,4,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,0,0,0,4,1,1,0,0,0,High,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+22,70,98,7.5,100,65,0,1,0,1,1,1,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+49,77,98,7.5,120,90,0,0,0,0,5,0,5,0,0,0,Low,Gestational Diabetes
+28,82,98,7.5,90,60,0,0,0,0,1,0,5,1,0,0,Low,Gestational Diabetes
+12,66,102,7.5,90,60,0,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+20,88,98,7.5,100,90,0,0,0,0,3,0,4,0,0,1,Low,"IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+23,66,98,7.5,100,85,0,0,1,0,2,0,4,0,0,0,Low,Gestational Diabetes
+22,82,98,7.5,120,90,0,0,0,0,1,0,3,0,0,0,Low,Gestational Diabetes
+21,77,98,7.5,120,80,0,0,1,0,2,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+35,66,98,7.5,140,100,0,1,1,0,5,1,4,0,0,0,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+54,66,98,15,140,100,1,0,0,1,3,0,2,0,1,0,High,"Anemia, Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+40,80,98,11,120,95,0,0,1,0,3,0,4,1,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+21,60,98,7.5,75,50,0,1,0,0,1,0,5,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+22,60,102,7.5,90,60,0,1,1,0,3,0,1,1,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+40,60,98,15,120,85,0,0,0,0,1,0,3,0,0,0,High,Gestational Diabetes
+55,77,98,19,140,95,0,0,0,1,1,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+50,75,98,16,130,100,0,0,0,0,2,0,5,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+60,75,98,7.5,120,80,0,1,0,0,3,0,5,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+40,60,98,15,120,85,0,1,0,0,1,0,5,1,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+55,77,98,19,140,95,0,1,0,0,2,0,5,0,1,0,High,"Anemia, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+50,75,98,16,130,100,0,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+41,75,98,7.5,120,80,0,1,0,0,2,1,3,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+55,66,98,7.5,100,65,0,0,0,0,2,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+45,66,98,7.5,120,95,0,0,0,1,1,0,5,1,0,0,Low,"Miscarriage Risk, Hypertension disorders, Preeclampsia, Placental Abruption, Gestational Diabetes"
+35,66,98,7.5,100,70,0,0,1,0,5,0,4,0,1,0,Low,"Anemia, Gestational Diabetes"
+22,88,98,7.5,120,85,0,1,1,0,5,0,3,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+13,80,101,7.5,90,65,0,0,1,0,5,1,1,0,1,0,High,"Anemia, Anxiety, Depression, Gestational Diabetes, Perinatal Depression"
+23,60,98,7.5,120,90,1,1,0,0,2,0,3,1,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+17,67,103,7.5,90,65,0,0,0,0,1,0,3,0,1,0,Low,"Anemia, Gestational Diabetes"
+27,86,101,7.5,135,60,0,0,0,0,3,0,3,0,0,0,High,Gestational Diabetes
+50,70,98,15,120,80,1,0,1,0,2,1,5,0,1,0,High,"Anemia, Gestational Diabetes"
+34,80,98,7,110,70,1,0,0,0,2,0,5,0,0,0,High,None
+32,70,98,7.5,120,80,0,1,0,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+31,76,98,6.1,120,60,0,0,0,1,4,0,1,0,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption"
+23,70,98,7.5,120,90,1,1,1,0,2,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+29,78,98,7.5,130,70,1,1,0,0,4,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+17,86,101,7.5,85,60,0,1,0,0,4,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+32,70,98,7.5,120,90,0,0,0,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,70,98,7.5,120,80,0,0,0,0,1,1,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+23,76,98,7.5,90,60,0,0,0,0,4,0,4,1,1,0,Low,"Anemia, Gestational Diabetes"
+19,70,98,7,120,80,0,1,0,0,1,0,3,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+15,77,98,7.5,76,49,0,1,0,0,5,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+20,70,98,7.5,120,76,0,0,1,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+48,88,98,11,120,80,1,1,0,0,2,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,7.5,120,80,0,0,1,0,4,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+24,66,98,7.5,120,80,0,1,1,0,1,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+22,80,98,12,100,65,1,0,0,0,3,0,5,0,1,0,High,"Anemia, Gestational Diabetes"
+50,60,98,17,140,95,1,1,0,0,1,0,2,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+35,60,98,11,100,70,0,0,0,0,4,0,4,1,0,0,High,Gestational Diabetes
+19,60,98,9,120,85,0,1,1,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+30,77,98,8,90,65,0,1,0,0,5,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+28,86,101,9,85,60,0,1,0,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,86,98,15,130,80,0,0,0,0,2,1,5,0,0,0,High,Gestational Diabetes
+35,70,98,13,140,90,0,0,0,0,2,1,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+29,80,100,11,90,70,0,0,0,0,5,0,4,0,1,0,High,"Anemia, Gestational Diabetes"
+19,70,98.4,7,120,60,0,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Depression"
+46,90,99,12,140,100,0,0,0,0,4,0,4,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+28,86,101,10,95,60,0,1,0,0,2,1,4,1,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,70,98,7,120,80,0,0,0,0,5,0,4,0,0,0,Low,None
+39,80,98,7.9,110,70,0,0,0,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+25,70,98.6,15,140,100,0,0,0,1,5,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+31,76,98,6.1,120,60,1,0,0,0,1,1,2,0,1,0,Low,"Anemia, Anxiety, Depression"
+23,70,98,8,120,85,0,1,1,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+29,78,98,8,130,70,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+17,86,102,9,90,60,1,1,0,0,5,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+32,70,100,7,120,90,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Depression"
+42,70,98,9,120,90,0,1,0,0,3,0,4,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+23,76,98,6.7,90,60,0,1,0,0,5,0,3,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+19,70,98,7,120,80,0,0,0,0,5,0,4,0,0,0,Low,None
+15,77,98,7,76,68,1,1,1,0,2,0,3,0,0,0,Low,Hyperemesis Gravidarum
+34,70,98,8,120,75,0,0,0,1,5,0,2,0,0,1,Low,"Miscarriage Risk, Anxiety, Depression, Recurrent Pregnancy Loss, Placental Abruption, Gestational Diabetes, IUGR"
+48,88,98,11,120,80,0,1,0,0,4,0,1,0,0,1,High,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+15,70,99,6.6,120,80,0,0,0,1,5,0,5,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+27,90,98,15,140,90,0,1,0,0,4,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+25,80,99,12,140,100,0,1,0,0,5,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+36,82,98,7,120,90,0,1,0,0,2,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+30,76,101,9,120,80,0,1,0,0,4,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,6,70,50,1,0,0,0,1,0,3,1,1,0,Low,Anemia
+40,70,98,7,120,95,0,0,0,1,4,1,2,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Perinatal Depression"
+15,80,98,6,90,60,0,0,0,1,2,0,1,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+21,60,98,6.9,90,50,0,0,0,0,4,0,4,0,1,0,Low,Anemia
+15,77,98,6,90,49,0,1,0,0,5,0,5,0,0,0,Low,Hyperemesis Gravidarum
+21,60,98,6.5,90,50,0,0,1,0,5,0,4,0,0,0,Low,None
+15,77,98,6,90,49,0,1,0,1,2,1,3,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+15,77,99,6.7,90,49,0,1,0,0,3,1,4,0,0,0,Low,Hyperemesis Gravidarum
+15,77,99,6,90,49,0,1,0,0,5,0,5,0,0,0,Low,Hyperemesis Gravidarum
+10,70,99,6,100,50,0,0,1,0,1,0,1,0,1,0,Low,"Anemia, Anxiety, Depression"
+15,77,99,6.8,100,49,1,1,1,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+15,77,99,6,100,49,0,1,0,1,4,0,3,0,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+12,70,98,6.4,100,50,0,0,1,0,4,0,5,0,1,0,Low,Anemia
+15,80,98,6,100,60,0,1,0,0,1,0,3,1,0,0,Low,Hyperemesis Gravidarum
+35,70,98,13,140,90,1,1,0,0,5,0,4,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+29,80,100,8,90,70,0,0,1,0,2,0,3,0,1,0,High,"Anemia, Gestational Diabetes"
+30,70,98,7,140,85,0,0,1,0,1,1,5,0,1,0,High,Anemia
+23,70,98,7.01,140,80,1,0,0,0,5,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+35,86,102,11,85,60,1,0,0,0,2,1,2,1,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+42,70,98,18,130,80,1,0,0,1,4,0,3,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+50,90,98,15,140,90,0,0,0,0,2,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+25,80,98,7.01,140,100,0,0,1,0,3,0,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+40,90,98,18,140,100,0,0,0,1,2,0,4,0,0,0,High,"Miscarriage Risk, Hypertension disorders, Preeclampsia, Placental Abruption, Gestational Diabetes"
+32,78,98,6.9,140,100,1,1,0,0,3,0,2,0,0,1,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+14,70,101,7,90,65,0,0,0,0,2,0,2,0,0,0,High,"Anxiety, Depression"
+37,88,98,11,120,90,0,1,0,0,3,1,2,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+17,76,101,12,110,75,0,0,0,0,4,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+40,80,98,12,120,90,1,0,0,0,5,0,1,0,0,1,High,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+40,77,98,19,160,100,0,0,1,1,3,1,5,1,1,0,High,"Anemia, Miscarriage Risk, Hypertension disorders, Preeclampsia, Placental Abruption, Gestational Diabetes"
+20,70,98,7.5,120,76,0,0,1,0,3,0,3,0,0,0,Low,Gestational Diabetes
+15,70,98,7.5,120,80,0,0,0,0,4,0,3,0,0,0,Low,Gestational Diabetes
+24,66,98,7.5,120,80,0,1,1,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,70,98.4,7,120,60,0,0,1,0,1,1,2,0,0,0,Low,"Anxiety, Depression"
+31,76,98,6.1,120,60,0,1,1,0,4,1,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Perinatal Depression"
+23,70,98,8,120,85,0,1,0,0,1,1,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+23,76,98,6.7,90,60,0,0,0,0,4,0,4,0,1,0,Low,Anemia
+19,70,98,7,120,80,0,0,0,0,3,1,1,0,0,0,Low,"Anxiety, Depression"
+15,77,98,7,76,68,0,1,0,1,1,0,3,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+34,70,98,8,120,75,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+15,70,99,6.6,120,80,0,0,0,0,4,0,3,0,0,0,Low,None
+15,80,98,6,90,60,0,1,0,0,3,0,4,0,0,0,Low,Hyperemesis Gravidarum
+21,60,98,6.9,90,50,0,0,0,0,1,1,2,0,0,0,Low,"Anxiety, Depression"
+15,77,98,7.6,100,49,0,1,0,0,1,1,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+12,70,98,6,100,50,0,1,0,0,3,0,4,0,0,0,Low,Hyperemesis Gravidarum
+21,60,98,6.8,100,50,1,0,1,0,2,0,3,0,1,0,Low,Anemia
+23,78,98,7.01,130,70,0,0,1,0,4,0,3,0,0,0,Low,Gestational Diabetes
+32,70,98,6.9,120,90,1,0,1,1,4,1,3,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Perinatal Depression"
+19,70,98,7,120,80,0,0,1,1,3,0,1,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+20,70,100,7.01,120,75,0,0,0,1,2,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+48,88,98,11,120,80,1,1,1,0,1,0,2,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+30,76,101,6.9,120,80,0,0,0,0,5,0,3,0,1,0,Low,Anemia
+18,76,102,6.9,120,80,0,0,0,0,5,0,3,0,1,0,Low,Anemia
+17,76,101,6.9,90,60,0,1,0,0,3,1,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+17,70,101,6.9,90,63,0,1,0,0,2,0,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+25,80,101,6.7,120,90,1,1,0,0,2,0,4,0,0,0,Low,Hyperemesis Gravidarum
+17,76,102,6.7,120,80,1,0,0,0,4,0,5,0,0,0,Low,None
+13,80,101,7.9,90,65,1,1,1,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+31,76,98,6.1,120,60,0,0,0,0,2,1,4,0,0,0,Low,None
+29,78,98,6.1,130,70,1,0,0,0,5,0,5,0,0,0,Low,None
+19,70,98,7,120,80,1,0,1,0,1,0,3,0,0,0,Low,None
+28,86,101,9,85,60,0,1,0,0,1,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+50,70,98,6.7,140,80,0,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+29,80,98,6.7,90,70,1,0,0,0,2,0,5,0,0,0,Low,None
+31,76,98,6.1,120,60,0,0,0,0,3,0,3,0,0,0,Low,None
+29,78,98,6.7,130,70,1,0,0,0,2,0,3,0,1,0,Low,Anemia
+17,86,102,9,85,60,0,1,1,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+19,70,98,7,120,80,1,1,0,0,3,0,4,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+20,70,100,7,110,60,0,1,0,0,3,0,3,0,0,0,Low,Hyperemesis Gravidarum
+19,70,98,7,120,80,0,0,1,1,5,0,1,0,0,1,Low,"Miscarriage Risk, Anxiety, Depression, Recurrent Pregnancy Loss, Placental Abruption, IUGR"
+20,70,100,7.01,120,75,0,0,0,0,3,0,1,0,0,1,Low,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+48,88,98,11,120,80,1,0,0,0,2,1,4,0,0,1,Low,"IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+30,76,101,6.9,120,80,0,0,0,0,5,1,5,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression"
+18,76,102,6.9,120,80,0,0,0,1,3,0,2,0,0,0,Low,"Placental Abruption, Anxiety, Miscarriage Risk, Depression"
+17,76,101,6.9,90,60,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+17,70,101,6.9,90,63,1,0,0,0,4,0,1,0,0,0,Low,"Anxiety, Depression"
+25,80,101,6.7,120,90,0,0,0,0,3,0,4,0,1,0,Low,Anemia
+17,76,102,6.7,120,80,1,0,1,1,1,1,5,0,0,0,Low,"Placental Abruption, Miscarriage Risk"
+13,80,101,7.9,90,65,0,0,0,0,5,0,5,0,1,1,Low,"Anemia, IUGR, Gestational Diabetes, Recurrent Pregnancy Loss"
+31,76,98,6.1,120,60,0,0,0,0,1,0,4,0,1,0,Low,Anemia
+29,78,98,6.1,130,70,0,1,0,0,5,1,1,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Perinatal Depression, IUGR"
+19,70,98,7,120,80,0,1,0,0,4,1,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Perinatal Depression"
+28,86,101,9,85,60,1,1,0,0,3,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+50,70,98,6.7,140,80,0,0,0,0,3,0,5,0,0,0,Low,None
+29,80,98,6.7,90,70,0,0,1,0,3,0,1,0,0,0,Low,"Anxiety, Depression"
+31,76,98,6.1,120,60,1,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Depression"
+29,78,98,6.7,130,70,0,0,0,0,3,1,3,1,0,0,Low,None
+17,86,102,9,85,60,0,1,0,1,1,1,1,1,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+19,70,98,7,120,80,1,0,0,0,3,0,4,0,0,0,Low,None
+20,70,100,7,110,60,0,0,0,0,4,0,3,0,0,0,Low,None
+32,76,101,6,120,65,0,0,0,0,1,1,4,0,0,0,Low,None
+26,86,101,6,85,60,1,0,0,0,3,0,4,0,0,0,Low,None
+29,78,98,7.7,130,70,0,1,0,0,3,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+19,70,98,7,120,80,0,0,1,0,2,0,1,0,1,0,Low,"Anemia, Anxiety, Depression"
+54,67,98,12,130,70,0,0,1,0,5,0,5,1,0,0,Low,Gestational Diabetes
+44,80,98,16,120,90,1,0,1,0,1,0,3,0,0,0,Low,Gestational Diabetes
+23,70,98,6.9,130,70,0,0,1,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+22,76,98,6.9,85,60,0,1,0,0,4,0,5,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+55,70,98,12,120,90,1,1,1,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+35,78,98,6.9,120,80,1,1,0,1,1,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+21,86,98,6.9,90,60,0,1,1,0,3,0,2,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+16,76,98,6.9,90,65,0,0,1,1,1,0,3,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+33,70,98,7,115,65,0,1,0,0,3,1,5,0,1,1,Low,"Anemia, IUGR, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+12,65,98,6.9,95,60,1,0,1,1,5,0,5,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+28,70,98,6.9,120,90,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Depression"
+21,76,98,6.9,90,65,0,1,0,0,4,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+18,70,98,6.9,90,60,1,0,0,0,3,1,3,0,0,0,Low,None
+21,76,98,6.9,120,80,1,1,0,0,4,0,2,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, IUGR"
+16,80,98,6.9,100,70,0,0,0,0,5,0,4,0,1,0,Low,Anemia
+19,66,98,6.9,120,75,1,1,0,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+23,66,98,6.9,100,85,0,1,1,0,1,0,5,1,0,0,Low,Hyperemesis Gravidarum
+22,82,98,7.8,120,90,1,1,0,0,4,0,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+60,60,98,15,120,85,0,1,1,0,4,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+13,80,101,7.8,90,65,0,1,1,0,2,0,5,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+23,60,98,7.8,120,90,1,0,1,0,2,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+28,86,101,7.8,115,60,0,0,1,0,2,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+50,70,98,7.8,120,80,0,0,0,0,3,0,5,0,0,0,Low,Gestational Diabetes
+29,78,98,7.8,130,70,1,1,1,0,2,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,70,98,7,120,80,1,0,1,0,4,0,4,0,0,0,Low,None
+19,60,98,7.8,120,85,0,1,0,0,3,0,3,1,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+60,77,98,6.8,90,65,0,0,0,0,5,0,5,0,0,0,Low,None
+55,66,98,6.8,120,90,0,0,0,0,1,0,5,0,1,0,Low,Anemia
+25,66,98,6.8,120,80,0,1,0,0,2,1,2,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+12,60,98,6.8,120,95,0,0,0,0,5,1,1,0,1,0,Low,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Perinatal Depression"
+35,60,98,6.8,100,70,0,0,0,0,4,0,3,0,0,0,Low,None
+19,60,98,6.8,120,90,1,0,0,0,1,0,5,0,0,0,Low,None
+60,77,98,6.8,90,65,0,1,0,0,5,0,2,1,1,1,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, IUGR"
+50,76,102,16,130,80,0,1,1,0,1,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+27,68,102,6.8,120,90,0,0,0,0,2,0,3,0,0,0,Low,None
+55,80,101,6.8,100,70,1,0,0,0,4,0,3,1,0,0,Low,None
+12,80,98,6.8,120,90,0,0,0,0,1,0,5,0,1,0,Low,Anemia
+60,77,98,6.8,120,80,0,1,0,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+25,60,98,6.8,120,100,0,1,1,0,2,1,2,0,0,1,Low,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Recurrent Pregnancy Loss, IUGR"
+22,77,98,6.8,90,60,0,0,0,0,2,0,3,0,0,1,Low,"IUGR, Recurrent Pregnancy Loss"
+30,70,98,6.8,120,80,0,0,0,1,5,0,4,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+35,76,98,6.1,120,60,1,0,0,0,5,1,2,0,1,1,Low,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, Perinatal Depression, IUGR"
+23,78,98,6.8,130,70,1,1,0,1,1,0,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+43,70,98,18,130,80,0,1,1,0,3,0,1,1,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+19,70,98,7,120,80,0,0,0,0,2,0,5,0,0,0,Low,None
+30,70,98,6.8,120,75,1,0,0,0,1,1,5,0,0,0,Low,None
+32,70,98,6.8,120,80,1,0,0,0,5,0,4,0,0,0,Low,None
+23,78,98,6.8,130,70,0,1,0,0,1,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+42,70,98,18,130,80,0,0,0,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,0,1,0,0,4,0,1,1,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+31,70,100,6.8,110,90,0,1,0,1,5,0,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+19,70,98,7,120,80,1,0,0,0,5,0,3,0,1,0,Low,Anemia
+25,66,98,7.9,120,80,1,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+31,76,98,6.1,120,60,1,0,1,0,3,1,2,0,0,0,Low,"Anxiety, Depression"
+23,70,98,7.9,120,90,0,1,1,0,5,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+29,78,98,7.9,130,70,0,1,0,0,2,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+48,88,98,11,120,80,1,1,1,0,2,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+18,76,102,7.9,120,80,1,0,0,1,1,0,1,0,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+18,86,101,7.5,85,60,0,0,0,0,3,1,5,0,0,0,Low,Gestational Diabetes
+29,78,98,7.5,130,70,1,1,1,0,1,0,5,0,0,1,Low,"IUGR, Gestational Diabetes, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
+23,70,98,8,120,75,1,1,1,0,2,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,7.5,120,80,0,0,1,0,2,0,1,0,1,1,Low,"Anemia, Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+30,76,101,7.5,120,80,0,1,0,0,4,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+40,80,98,11,120,95,0,1,0,0,5,0,3,0,1,0,Low,"Anemia, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+60,60,98,15,120,85,0,0,1,0,2,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+50,75,98,16,130,100,0,1,0,0,1,0,1,0,0,0,Low,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+28,86,101,7.5,115,60,1,1,0,0,1,0,3,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+31,76,98,6.1,120,60,0,1,0,0,5,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+23,70,98,7.5,120,80,0,0,0,0,5,0,5,0,0,0,Low,Gestational Diabetes
+29,78,98,7.5,130,70,0,0,0,0,4,1,4,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression"
+22,70,98,7.5,100,65,0,1,0,0,3,0,5,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+49,77,98,7.5,120,90,1,0,1,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+28,82,98,7.5,90,60,0,0,0,0,5,0,5,0,0,0,Low,Gestational Diabetes
+12,66,102,7.5,90,60,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+20,88,98,7.5,100,90,1,0,0,0,5,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+23,66,98,7.5,100,85,0,1,0,0,2,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+22,82,98,7.5,120,90,0,1,0,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+21,77,98,7.5,120,80,0,0,0,0,2,1,5,0,0,0,Low,Gestational Diabetes
+60,75,98,7.5,120,80,0,0,1,0,1,0,4,0,0,0,Low,Gestational Diabetes
+50,75,98,16,130,100,0,0,0,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+17,67,103,7.5,90,65,0,1,1,0,4,1,4,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+29,78,98,7.5,130,70,0,1,0,1,2,0,5,1,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+19,70,98,7,120,80,1,0,0,0,5,1,5,0,1,0,Low,"Anemia, Anxiety, Perinatal Depression"
+19,60,98,9,120,85,0,1,0,0,3,0,5,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+30,77,98,8,90,65,0,1,0,0,1,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+28,86,101,9,85,60,0,1,1,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+50,70,98,7,120,80,0,1,0,1,1,0,4,0,0,0,Low,"Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+39,80,98,7.9,110,70,0,0,0,0,1,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+29,78,98,8,130,70,0,1,1,1,1,0,4,1,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+17,86,102,9,90,60,1,0,1,1,4,0,1,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+32,70,100,7,120,90,0,1,1,1,4,0,5,0,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+42,70,98,9,120,90,0,1,0,0,5,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+36,82,98,7,120,90,0,1,1,0,2,0,5,0,0,0,Low,Hyperemesis Gravidarum
+30,76,101,9,120,80,1,1,0,0,3,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+15,70,98,6,70,50,0,0,0,0,3,0,3,0,0,1,Low,"IUGR, Recurrent Pregnancy Loss"
+10,70,99,6,100,50,0,0,0,0,3,0,1,0,0,0,Low,"Anxiety, Depression"
+12,70,98,6.4,100,50,0,1,0,0,1,0,3,0,0,0,Low,Hyperemesis Gravidarum
+12,70,98,6,100,50,1,1,0,0,4,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+23,78,98,7.01,130,70,0,0,0,0,2,0,2,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+32,70,98,6.9,120,90,1,0,1,0,1,0,4,0,0,0,Low,None
+19,70,98,7,120,80,0,0,0,0,4,1,2,0,0,0,Low,"Anxiety, Perinatal Depression, Depression"
+20,70,100,7.01,120,75,0,1,0,0,4,1,2,0,0,0,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes, Perinatal Depression"
+48,88,98,11,120,80,0,1,0,0,2,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+30,76,101,6.9,120,80,0,0,1,0,2,0,3,1,0,0,Low,None
+18,76,102,6.9,120,80,0,0,0,0,2,0,5,1,0,0,Low,None
+17,76,101,6.9,90,60,0,1,0,0,1,0,1,0,1,0,Low,"Anemia, Anxiety, Hyperemesis Gravidarum, Depression"
+17,70,101,6.9,90,63,1,1,1,1,5,0,5,0,1,0,Low,"Anemia, Placental Abruption, Hyperemesis Gravidarum, Miscarriage Risk"
+25,80,101,6.7,120,90,0,0,1,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+17,76,102,6.7,120,80,0,0,0,0,5,0,5,0,0,0,Low,None
+13,80,101,7.9,90,65,0,0,0,0,1,0,3,0,0,0,Low,Gestational Diabetes
+31,76,98,6.1,120,60,0,0,1,0,5,0,1,0,1,0,Low,"Anemia, Anxiety, Depression"
+29,78,98,6.1,130,70,0,0,0,0,3,1,3,0,1,0,Low,Anemia
+19,70,98,7,120,80,0,1,0,0,5,0,3,0,0,0,Low,Hyperemesis Gravidarum
+28,86,101,9,85,60,0,1,1,0,2,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+50,70,98,6.7,140,80,1,1,0,0,1,1,3,0,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+29,80,98,6.7,90,70,1,1,0,0,2,0,4,0,0,0,Low,Hyperemesis Gravidarum
+31,76,98,6.1,120,60,0,0,0,0,3,0,4,1,0,0,Low,None
+29,78,98,6.7,130,70,0,0,0,1,2,0,4,0,1,0,Low,"Anemia, Placental Abruption, Miscarriage Risk"
+17,86,102,9,85,60,0,0,0,1,2,1,5,0,1,0,Low,"Anemia, Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+19,70,98,7,120,80,0,0,1,0,2,1,3,0,0,0,Low,None
+20,70,100,7,110,60,0,1,0,0,4,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+32,76,101,6,120,65,0,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Hyperemesis Gravidarum, Depression"
+27,77,98,6.8,120,70,1,0,0,0,2,0,5,0,0,1,Low,"IUGR, Recurrent Pregnancy Loss"
+27,77,98,6.8,120,70,0,0,0,0,2,0,1,0,0,0,Low,"Anxiety, Depression"
+32,70,98,6.8,120,90,0,1,1,1,2,0,4,0,0,1,Low,"Miscarriage Risk, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Placental Abruption, IUGR"
+23,76,98,6.8,99,60,0,0,0,0,1,1,3,0,1,0,Low,Anemia
+15,77,98,6.8,76,49,0,0,0,0,4,0,1,0,1,0,Low,"Anemia, Anxiety, Depression"
+15,70,98,6.8,120,80,0,1,0,0,1,0,1,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, IUGR"
+29,80,98,6.8,100,70,0,1,0,1,4,0,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+35,76,98,6.1,120,60,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+32,70,98,6.8,120,90,1,0,0,0,3,0,2,0,0,0,Low,"Anxiety, Depression"
+23,76,98,6.8,90,60,0,1,1,0,5,0,3,1,0,0,Low,Hyperemesis Gravidarum
+15,77,98,6.8,76,49,0,0,0,0,5,1,4,0,0,0,Low,"Anxiety, Perinatal Depression"
+20,70,98,6.8,120,75,0,0,0,0,2,1,4,1,1,0,Low,Anemia
+48,88,98,11,120,80,0,1,0,1,1,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+15,70,98,6.8,120,80,0,0,1,0,3,1,3,0,1,0,Low,Anemia
+30,76,101,6.8,120,80,1,1,0,0,4,0,3,1,1,0,Low,"Anemia, Hyperemesis Gravidarum"
+18,76,102,6.8,120,80,1,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Depression"
+17,76,101,7.9,90,60,1,1,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+15,77,98,7.9,76,49,0,0,0,0,3,0,5,0,1,0,Low,"Anemia, Gestational Diabetes"
+19,70,98,7.9,120,75,0,0,1,0,4,1,5,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Perinatal Depression"
+48,88,98,11,120,80,0,0,0,0,3,0,1,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+15,70,98,7.9,120,80,0,0,0,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+22,80,98,7.9,100,65,1,1,1,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+35,60,98,7.9,100,70,0,1,1,0,1,0,1,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+19,60,98,7.9,120,85,0,0,1,1,3,0,5,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+60,77,98,7.9,90,65,0,0,1,0,1,0,2,0,0,1,Low,"Anxiety, Depression, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+50,70,98,7.9,120,80,0,1,0,0,4,0,3,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+17,86,102,7.9,85,60,0,1,0,0,3,0,5,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+32,70,98,7.9,120,90,0,0,0,0,5,1,3,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression"
+42,70,98,7.9,120,80,0,0,0,0,3,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,76,98,7.9,90,60,1,0,0,0,4,0,1,0,1,0,Low,"Anemia, Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,1,1,0,0,5,0,4,0,0,0,Low,Hyperemesis Gravidarum
+15,77,98,7.9,76,49,0,0,0,0,3,0,4,0,0,0,Low,Gestational Diabetes
+16,7,98,7.9,120,75,0,1,1,0,1,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+15,70,98,7.9,120,80,0,0,0,0,2,0,4,0,0,0,Low,Gestational Diabetes
+17,70,98,7.9,70,50,0,1,1,1,2,1,3,1,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+17,76,101,7.5,90,60,0,0,0,0,1,0,4,0,0,0,Low,Gestational Diabetes
+17,70,101,7.5,90,63,0,0,0,0,2,1,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+25,80,101,7.5,120,90,0,0,0,1,2,1,2,0,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+17,76,102,7.5,120,80,0,1,0,1,1,0,3,0,1,0,Low,"Anemia, Miscarriage Risk, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+19,70,101,7.5,90,65,0,0,0,0,1,0,4,0,0,0,Low,Gestational Diabetes
+15,80,98,7.5,80,60,0,0,1,0,3,0,4,0,0,0,Low,Gestational Diabetes
+60,77,98,7.5,90,65,1,0,0,0,3,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+50,70,98,7.5,120,80,1,0,0,0,1,1,5,1,1,0,Low,"Anemia, Gestational Diabetes"
+19,80,98,7.5,90,70,0,1,0,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+31,76,98,6.1,120,60,1,1,0,0,2,0,1,1,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, IUGR"
+23,70,98,7.5,120,90,0,1,1,0,3,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+17,86,102,7.5,85,60,1,0,1,0,2,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+32,70,98,7.5,120,90,1,1,0,0,5,1,5,0,0,0,Low,"Anxiety, Gestational Diabetes, Perinatal Depression, Hyperemesis Gravidarum"
+42,70,98,7.5,120,80,0,0,0,0,1,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,76,98,7.5,90,60,0,0,0,0,4,0,2,1,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+19,70,98,7,120,80,0,0,1,0,5,0,4,0,1,0,Low,Anemia
+15,77,98,7.5,78,49,0,0,0,0,5,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+16,70,100,7.5,70,50,0,1,0,1,5,1,3,0,0,0,Low,"Miscarriage Risk, Anxiety, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes, Perinatal Depression"
+16,80,98,7.5,100,70,0,1,1,0,1,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+19,66,98,7.5,120,75,0,1,0,0,3,0,3,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+22,70,98,7.5,100,65,1,0,1,0,1,0,3,0,0,0,Low,Gestational Diabetes
+49,77,98,7.5,120,90,1,0,0,0,3,1,5,0,0,0,Low,Gestational Diabetes
+28,82,98,7.5,90,60,0,0,0,1,5,0,4,0,0,0,Low,"Placental Abruption, Gestational Diabetes, Miscarriage Risk"
+12,66,102,7.5,90,60,0,0,0,0,5,0,4,0,0,0,Low,Gestational Diabetes
+20,88,98,7.5,100,90,0,0,1,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+23,66,98,7.5,100,85,0,0,1,0,3,1,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+22,82,98,7.5,120,90,1,0,0,0,5,1,2,0,1,0,Low,"Anemia, Anxiety, Depression, Gestational Diabetes, Perinatal Depression"
+21,77,98,7.5,120,80,0,0,0,0,2,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+21,60,98,7.5,75,50,0,1,0,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+12,60,102,7.5,90,60,0,1,1,0,1,0,2,0,0,1,Low,"Anxiety, Depression, Hyperemesis Gravidarum, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+60,75,98,7.5,120,80,0,1,0,0,4,0,4,0,0,0,Low,"Gestational Diabetes, Hyperemesis Gravidarum"
+55,66,98,7.5,100,65,0,1,0,0,2,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+45,66,98,7.5,120,95,1,0,0,1,3,1,2,0,0,0,Low,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+35,66,98,7.5,100,70,0,1,1,0,1,0,4,0,1,0,Low,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+22,88,98,7.5,120,85,0,1,0,0,1,1,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+13,80,101,7.5,90,65,0,0,0,0,3,0,3,0,0,0,Low,Gestational Diabetes
+23,60,98,7.5,120,90,1,0,0,1,4,0,2,0,1,0,Low,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+17,67,103,7.5,90,65,1,1,1,0,5,0,2,0,1,0,Low,"Anemia, Anxiety, Depression, Hyperemesis Gravidarum, Gestational Diabetes"
+59,70,98,7.5,120,80,0,0,0,0,4,0,5,0,0,0,Low,Gestational Diabetes
+23,70,98,7.5,120,80,0,0,0,0,2,0,3,0,0,0,Low,Gestational Diabetes
+17,86,102,7.5,85,60,0,0,1,0,5,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+32,70,98,7.5,120,90,0,0,0,0,4,0,2,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+42,70,98,7.5,120,80,1,0,0,0,3,0,1,0,0,0,Low,"Anxiety, Gestational Diabetes, Depression"
+25,80,98,7.01,140,100,0,0,0,0,2,0,3,0,0,1,High,"Hypertension disorders, Preeclampsia, Recurrent Pregnancy Loss, Gestational Diabetes, IUGR"
+40,90,98,18,140,100,0,0,1,0,2,1,2,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+32,78,98,6.9,140,100,0,0,0,0,2,0,5,0,0,0,High,"Preeclampsia, Hypertension disorders"
+14,70,101,7,90,65,0,1,1,0,5,1,4,0,0,0,High,"Anxiety, Hyperemesis Gravidarum, Perinatal Depression"
+37,88,98,11,120,90,0,0,0,0,1,0,5,0,0,0,High,Gestational Diabetes
+17,76,101,12,110,75,1,0,0,0,5,0,5,0,1,0,High,"Anemia, Gestational Diabetes"
+40,80,98,12,120,90,0,0,0,0,4,0,4,1,0,0,High,Gestational Diabetes
+40,77,98,19,160,100,0,1,1,0,1,1,4,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+32,88,98,18,140,90,0,0,0,0,4,0,4,0,0,0,High,Gestational Diabetes
+12,66,102,7.9,90,60,0,0,1,0,1,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+35,66,98,8,140,100,0,1,0,0,5,0,1,1,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+54,66,98,15,140,100,0,1,0,0,2,0,1,0,0,0,High,"Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+40,80,98,11,120,95,1,0,0,0,3,0,4,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+60,60,98,15,120,85,0,1,1,0,2,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+55,77,98,19,140,95,0,0,0,0,5,0,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+50,75,98,16,130,100,0,0,0,0,1,1,4,1,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+17,67,103,6.1,90,65,0,0,0,0,2,0,5,0,0,0,High,None
+28,86,101,8,83,60,1,0,1,0,5,0,5,0,0,0,High,Gestational Diabetes
+50,70,98,15,120,80,1,1,0,0,4,0,2,1,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+17,86,102,9,85,60,0,0,1,0,3,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+33,70,98,10,120,75,0,0,0,1,2,0,1,0,1,0,High,"Anemia, Miscarriage Risk, Anxiety, Depression, Placental Abruption, Gestational Diabetes"
+48,88,98,11,120,80,0,1,0,1,1,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+50,60,98,17,140,95,0,1,0,0,4,1,3,0,0,0,High,"Anxiety, Hypertension disorders, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+30,70,98,15,140,100,0,0,1,0,5,1,3,0,0,0,High,"Anxiety, Hypertension disorders, Preeclampsia, Gestational Diabetes, Perinatal Depression"
+29,70,100,7.2,120,75,0,1,1,0,3,1,3,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+48,88,98,11,120,80,0,0,0,0,1,0,3,0,1,0,High,"Anemia, Gestational Diabetes"
+50,77,98,15,140,90,0,1,0,0,5,0,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+25,80,98,7.2,140,100,1,1,0,0,5,0,5,0,0,0,High,"Hyperemesis Gravidarum, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+55,76,101,7.2,140,80,0,1,0,0,2,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Hyperemesis Gravidarum, Depression"
+40,77,98,18,140,100,0,0,0,0,2,0,2,1,0,0,High,"Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+28,76,102,9,120,80,1,0,0,0,1,0,2,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+32,70,98,8,140,100,0,0,0,0,5,0,4,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+17,78,101,11,90,60,0,0,0,0,2,0,5,1,0,0,High,Gestational Diabetes
+17,70,101,8,90,63,0,0,0,0,3,0,3,0,1,0,High,"Anemia, Gestational Diabetes"
+25,80,101,12,120,90,0,1,0,0,3,0,3,0,1,0,High,"Anemia, Gestational Diabetes, Hyperemesis Gravidarum"
+17,76,102,7,120,80,1,0,0,0,5,0,4,0,0,1,High,"IUGR, Recurrent Pregnancy Loss"
+19,70,101,11,90,65,1,0,0,0,2,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+37,88,98,11,120,90,0,1,1,1,1,0,3,0,0,0,High,"Placental Abruption, Gestational Diabetes, Miscarriage Risk, Hyperemesis Gravidarum"
+17,76,101,13,110,75,0,0,0,0,1,0,2,1,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+25,80,98,15,120,90,0,1,0,1,1,1,4,0,1,0,High,"Anemia, Miscarriage Risk, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+40,77,98,19,160,100,0,0,0,1,3,0,2,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Preeclampsia, Placental Abruption, Gestational Diabetes"
+32,88,98,18,140,90,0,0,0,0,2,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+12,66,102,8,90,60,1,0,0,0,2,0,2,0,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+35,66,98,9,140,100,0,0,0,0,3,0,3,0,0,0,High,"Gestational Diabetes, Preeclampsia, Hypertension disorders"
+54,66,98,15,140,100,1,1,1,1,1,1,1,0,0,0,High,"Miscarriage Risk, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Placental Abruption, Gestational Diabetes"
+40,80,98,11,120,95,0,0,0,0,1,0,5,0,1,0,High,"Anemia, Gestational Diabetes, Preeclampsia, Hypertension disorders"
+12,60,102,11,90,60,0,0,0,0,5,0,2,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+60,60,98,15,120,85,0,0,0,0,4,1,2,0,0,0,High,"Anxiety, Gestational Diabetes, Perinatal Depression, Depression"
+55,77,98,19,140,95,1,0,0,0,2,0,2,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Preeclampsia, Gestational Diabetes"
+50,76,98,16,130,100,1,1,0,0,2,0,1,0,1,0,High,"Anemia, Anxiety, Hypertension disorders, Depression, Hyperemesis Gravidarum, Preeclampsia, Gestational Diabetes"
+13,80,101,9,90,65,1,0,1,0,2,0,4,0,0,0,High,Gestational Diabetes
+17,67,103,7.7,90,65,0,1,0,0,4,0,3,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+17,86,102,6.3,85,60,0,1,0,1,5,0,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption"
+40,70,98,7.7,120,75,1,0,0,0,4,0,2,1,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+48,88,98,11,120,80,0,1,0,1,1,1,1,0,0,0,High,"Miscarriage Risk, Anxiety, Depression, Hyperemesis Gravidarum, Placental Abruption, Gestational Diabetes"
+22,80,98,15,120,60,0,0,1,0,1,0,1,1,1,0,High,"Anemia, Anxiety, Gestational Diabetes, Depression"
+55,60,98,18,120,90,0,0,0,0,2,0,1,0,0,0,High,"Anxiety, Gestational Diabetes, Depression"
+35,86,98,19,85,60,1,0,0,0,3,0,4,1,0,0,High,Gestational Diabetes
+43,70,98,18,120,90,1,1,0,0,2,1,5,0,0,0,High,"Gestational Diabetes, Hyperemesis Gravidarum"
+32,76,101,6,120,65,0,1,1,0,3,1,3,1,1,1,Low,"Anemia, IUGR, Hyperemesis Gravidarum, Recurrent Pregnancy Loss"
