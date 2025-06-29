@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAG - Pregnancy Health Prediction</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+    <header class="header">
+        <nav class="nav">
+            <div class="logo">
+                <div class="logo-icon">👶</div>
+                <span data-translate="appName">MAG</span>
+            </div>
+            <div class="nav-links">
+                <a href="#prediction" class="nav-link" data-translate="prediction">Health Prediction</a>
+                <a href="#timeline" class="nav-link" data-translate="timeline">Timeline</a>
+                <a href="#books" class="nav-link" data-translate="books">Books</a>
+                <a href="#doctor" class="nav-link" data-translate="doctor">Doctor Assistance</a>
+                <select class="language-selector" id="languageSelect">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                    <option value="mr">मराठी</option>
+                    <option value="bn">বাংলা</option>
+                    <option value="ta">தமிழ்</option>
+                    <option value="te">తెలుగు</option>
+                </select>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="hero">
+            <h1 data-translate="heroTitle">Complete Pregnancy Care Platform</h1>
+            <p data-translate="heroSubtitle">AI-powered health predictions, personalized care, and comprehensive support for expecting mothers and fathers</p>
+        </div>
+
+        <div class="feature-cards">
+            <div class="card">
+                <div class="card-icon">🤰</div>
+                <h3 data-translate="momAccount">Mother's Account</h3>
+                <p data-translate="momDescription">Comprehensive health tracking with offline risk calculations and disease predictions for expecting mothers.</p>
+                <button class="btn" onclick="showSection('mom')" data-translate="accessAccount">Access Account</button>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">👨‍👩‍👧‍👦</div>
+                <h3 data-translate="dadAccount">Father's Support</h3>
+                <p data-translate="dadDescription">Guidance for fathers on supporting their partner, meal planning, and understanding pregnancy health.</p>
+                <button class="btn" onclick="showSection('dad')" data-translate="accessAccount">Access Account</button>
+            </div>
+
+            <div class="card">
+                <div class="card-icon">👩‍⚕️</div>
+                <h3 data-translate="doctorAssistance">Doctor Assistance</h3>
+                <p data-translate="doctorDescription">Connect with healthcare professionals in your area for personalized medical guidance.</p>
+                <button class="btn" onclick="showSection('doctor')" data-translate="findDoctor">Find Doctor</button>
+            </div>
+        </div>
+
+        <!-- Health Prediction Section -->
+        <div id="prediction" class="prediction-form">
+            <h2 data-translate="healthPrediction">Health Risk Prediction</h2>
+            <form id="predictionForm">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label data-translate="age">Age:</label>
+                        <input type="number" id="age" min="18" max="50" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="heartRate">Heart Rate (bpm):</label>
+                        <input type="number" id="heartRate" min="50" max="150" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="bodyTemp">Body Temperature (°F):</label>
+                        <input type="number" id="bodyTemp" min="95" max="105" step="0.1" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="bloodSugar">Blood Sugar (mg/dL):</label>
+                        <input type="number" id="bloodSugar" min="50" max="300" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="systolicBP">Systolic BP (mmHg):</label>
+                        <input type="number" id="systolicBP" min="80" max="200" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="diastolicBP">Diastolic BP (mmHg):</label>
+                        <input type="number" id="diastolicBP" min="50" max="120" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="swelling">Swelling:</label>
+                        <select id="swelling" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="nausea">Nausea:</label>
+                        <select id="nausea" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="abdominalPain">Abdominal Pain:</label>
+                        <select id="abdominalPain" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="vaginalBleeding">Vaginal Bleeding:</label>
+                        <select id="vaginalBleeding" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="stressLevel">Stress Level (1-10):</label>
+                        <input type="number" id="stressLevel" min="1" max="10" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="depressionSymptoms">Depression Symptoms:</label>
+                        <select id="depressionSymptoms" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="sleepQuality">Sleep Quality (1-10):</label>
+                        <input type="number" id="sleepQuality" min="1" max="10" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="diabetes">Diabetes:</label>
+                        <select id="diabetes" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="anemia">Anemia:</label>
+                        <select id="anemia" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label data-translate="priorMiscarriage">Prior Miscarriage:</label>
+                        <select id="priorMiscarriage" required>
+                            <option value="0" data-translate="no">No</option>
+                            <option value="1" data-translate="yes">Yes</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn" data-translate="calculateRisk">Calculate Risk</button>
+            </form>
+        </div>
+
+        <!-- Risk Result -->
+        <div id="riskResult" class="risk-result">
+            <h3 data-translate="riskAssessment">Risk Assessment Result</h3>
+            <div id="riskContent"></div>
+            <div id="recommendations"></div>
+        </div>
+
+        <!-- Timeline Section -->
+        <div id="timeline" class="timeline">
+            <h2 data-translate="pregnancyTimeline">Pregnancy Risk Timeline</h2>
+            <div id="timelineContent">
+                <div class="week-item">
+                    <strong data-translate="week1">Week 1-4:</strong> 
+                    <span data-translate="week1desc">Initial pregnancy symptoms. Monitor nausea and fatigue levels.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week2">Week 5-8:</strong> 
+                    <span data-translate="week2desc">Critical organ development. Avoid alcohol and maintain folic acid intake.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week3">Week 9-12:</strong> 
+                    <span data-translate="week3desc">First trimester screening. Monitor blood pressure and weight gain.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week4">Week 13-16:</strong> 
+                    <span data-translate="week4desc">Second trimester begins. Energy levels typically improve.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week5">Week 17-20:</strong> 
+                    <span data-translate="week5desc">Anatomy scan period. Monitor fetal movements.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week6">Week 21-24:</strong> 
+                    <span data-translate="week6desc">Viability milestone. Watch for preterm labor signs.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week7">Week 25-28:</strong> 
+                    <span data-translate="week7desc">Glucose screening. Monitor for gestational diabetes.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week8">Week 29-32:</strong> 
+                    <span data-translate="week8desc">Third trimester monitoring. Watch blood pressure closely.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week9">Week 33-36:</strong> 
+                    <span data-translate="week9desc">Preparation for delivery. Monitor for preeclampsia signs.</span>
+                </div>
+                <div class="week-item">
+                    <strong data-translate="week10">Week 37-40:</strong> 
+                    <span data-translate="week10desc">Full term. Ready for delivery. Watch for labor signs.</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Books Section -->
+        <div id="books" class="books-section">
+            <h2 data-translate="pregnancyBooks">Pregnancy Education Books</h2>
+            <div class="book-grid">
+                <div class="book-item">
+                    <h4 data-translate="book1">What to Expect When You're Expecting</h4>
+                    <p data-translate="book1desc">Comprehensive pregnancy guide</p>
+                    <button class="btn" onclick="openBook('book1')" data-translate="readBook">Read Book</button>
+                </div>
+                <div class="book-item">
+                    <h4 data-translate="book2">The Pregnancy Bible</h4>
+                    <p data-translate="book2desc">Week-by-week pregnancy information</p>
+                    <button class="btn" onclick="openBook('book2')" data-translate="readBook">Read Book</button>
+                </div>
+                <div class="book-item">
+                    <h4 data-translate="book3">Nurture</h4>
+                    <p data-translate="book3desc">Science-based pregnancy advice</p>
+                    <button class="btn" onclick="openBook('book3')" data-translate="readBook">Read Book</button>
+                </div>
+                <div class="book-item">
+                    <h4 data-translate="book4">The First Forty Days</h4>
+                    <p data-translate="book4desc">Postpartum recovery guide</p>
+                    <button class="btn" onclick="openBook('book4')" data-translate="readBook">Read Book</button>
+                </div>
+                <div class="book-item">
+                    <h4 data-translate="book5">Bringing Up Bébé</h4>
+                    <p data-translate="book5desc">French parenting wisdom</p>
+                    <button class="btn" onclick="openBook('book5')" data-translate="readBook">Read Book</button>
+                </div>
+                <div class="book-item">
+                    <h4 data-translate="book6">The Expectant Father</h4>
+                    <p data-translate="book6desc">Guide for expecting fathers</p>
+                    <button class="btn" onclick="openBook('book6')" data-translate="readBook">Read Book</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Doctor Assistance -->
+        <div id="doctor" class="card">
+            <h2 data-translate="doctorAssistanceTitle">Doctor Assistance by Location</h2>
+            <div class="form-group">
+                <label data-translate="location">Enter your location:</label>
+                <input type="text" id="locationInput" placeholder="City, State">
+                <button class="btn" onclick="findDoctors()" data-translate="findNearbyDoctors">Find Nearby Doctors</button>
+            </div>
+            <div id="doctorList"></div>
+        </div>
+    </div>
+
+    <!-- Emergency SOS Button -->
+    <button class="emergency-btn" onclick="showEmergencyModal()" title="Emergency SOS">🚨</button>
+
+    <!-- Emergency Modal -->
+    <div id="emergencyModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEmergencyModal()">&times;</span>
+            <h2 data-translate="emergencyTitle">Emergency Contacts</h2>
+            <div style="margin: 1rem 0;">
+                <button class="btn" onclick="callEmergency('husband')" data-translate="callHusband">Call Husband</button>
+                <button class="btn" onclick="callEmergency('doctor')" data-translate="callDoctor">Call Doctor</button>
+                <button class="btn" onclick="callEmergency('ambulance')" data-translate="callAmbulance">Call Ambulance</button>
+            </div>
+            <p data-translate="emergencyNote">In case of emergency, tap the appropriate button to make a call.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
